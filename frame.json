@@ -1,1 +1,17 @@
-
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "AYMP Cosmic",
+    "iconUrl": "https://yourname.github.io/aymp-frame/poster.png",
+    "homeUrl": "https://yourname.github.io/aymp-frame/",
+    "imageUrl": "https://yourname.github.io/aymp-frame/poster.png",
+    "buttonTitle": "START GAME",
+    "splashImageUrl": "https://yourname.github.io/aymp-frame/poster.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
